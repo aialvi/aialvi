@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [weDevs](https://github.com/weDevsOfficial)
 
-- 👨‍💻 Get to know me [https://aialvi.github.io/](https://aialvi.github.io/)
+- 👨‍💻 Get to know me [aialvi.codes](https://aialvi.codes)
 
 - 📫 Reach me at **aminulialvi@gmail.com**
 
