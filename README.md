@@ -10,6 +10,6 @@ Please feel free to reach out at **aminulialvi@gmail.com**, if you need help or 
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aialvi&show_icons=true&locale=en" alt="aialvi" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aialvi&" alt="aialvi" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aialvi&" alt="aialvi" /></p> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aialvi" alt="aialvi" /></a> </p> -->
