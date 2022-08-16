@@ -1,4 +1,4 @@
-I am a passionate Software Engineer currently working at weDevs, specialised in front-end development using Vue, React and TypeScript. As an advocate for web performance and accessibility, I create amazing web applications to make the internet a better place. You can talk to me about anything related to CSS, JavaScript, Vue, the React ecosystem, Jamstack and the open web.
+I am a passionate Software Engineer, specialised in front-end development using Vue, React and TypeScript. As an advocate for web performance and accessibility, I create amazing web applications to make the internet a better place. You can talk to me about anything related to CSS, JavaScript, Vue, the React ecosystem, Jamstack and the open web.
 
 Please feel free to reach out at **aminulialvi@gmail.com**, if you need help or interested to team up!
 
