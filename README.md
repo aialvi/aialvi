@@ -1,4 +1,4 @@
-I am a passionate software engineer, specialised in JS and PHP ecosystem. As an advocate for web performance and accessibility, I create web applications to make the internet a better place. You can talk to me about anything related to CSS, JavaScript, React, Next, Vue, Nuxt, Gutenberg, JAMstack, WordPress, Nest, Laravel, SQL and the open web.
+I am a passionate software engineer, specialised in JS and PHP ecosystem. As an advocate for web performance and accessibility, I create web applications to make the internet a better place. You can talk to me about anything related to CSS, JavaScript, React, Next, Vue, Nuxt, Gutenberg, WordPress, Express, Nest, Laravel, SQL and the open web.
 
 Please feel free to reach out at **aminulialvi@gmail.com**, if you need help or interested to team up!
 
