@@ -4,8 +4,8 @@ Full-stack engineer specialised in headless architecture and modern web stacks b
 
 ## What I bring to the table
 
-**Frontend** TypeScript · React · Next.js · Vue · Nuxt · CSS   
-**Backend** PHP 8+ · Laravel · Node · Express · NestJS · SQL · NOSQL  
+**Frontend** TypeScript · React · Angular · Vue · NextJS · Nuxt · CSS   
+**Backend** Node · Laravel · NestJS · Express · Django · SQL · NOSQL  
 **AI/ML integration** LLM APIs, Python, RAG, LangChain  
 **WordPress & Gutenberg** Custom blocks · Full Site Editing · Theme.json · 
 Headless WP · REST API · WPGraphQL · Multisite · VIP platform  
